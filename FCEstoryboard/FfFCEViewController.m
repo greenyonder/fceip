@@ -68,14 +68,6 @@ didDismissWithButtonIndex:(NSInteger)buttonIndex
         // multiple cho        
        
         
-    } else if (buttonIndex==1) {
-       
-//        Data *dataTmp;
-//        
-//        dataTmp = [[Data alloc]  init] ;
-//        [dataTmp resetFehler:@" 1 , 2 , 3 , 4 , 5 "];
-//        
-        
        
     }
 }
